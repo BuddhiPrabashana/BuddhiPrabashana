@@ -31,7 +31,7 @@ I focus on creating smooth user experiences, scalable backend systems, and visua
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,chatgpt,gemini,tailwind,bootstrap,react,threejs,firebase,vscode,git,github,vite,netlify,flutter,youtube" />
+    <img src="https://skillicons.dev/icons?i=html,css,Ai,tailwind,bootstrap,react,threejs,firebase,vscode,git,github,vite,netlify,flutter,youtube" />
   </a>
 </p>
 
